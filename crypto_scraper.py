@@ -36,6 +36,6 @@ while num <= 8975:
     num += batch_size
 
 df = pd.DataFrame({'Name': name, 'Price': price, 'Change':change, 'Volume in Currency':volume, 'Circulating Supply': circulating_supply})
-df.to_csv('Top 500 Crypto.csv', index=False)
+df.to_csv('CryptoCoins.csv', index=False)
 
 driver.quit()
