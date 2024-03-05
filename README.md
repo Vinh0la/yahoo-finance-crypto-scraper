@@ -29,7 +29,7 @@ Certifique-se de instalar todas as dependências antes de executar o script.
 
 ## Funcionamento
 
-O script irá coletar os dados das criptomoedas disponíveis na página de criptomoedas do Yahoo Finance. Os dados coletados incluem o nome da criptomoeda, preço e fornecimento circulante. Os dados serão salvos em um arquivo CSV chamado `Top 500 Crypto.csv`.
+O script irá coletar os dados das criptomoedas disponíveis na página de criptomoedas do Yahoo Finance. Os dados coletados incluem o nome da criptomoeda, preço e fornecimento circulante. Os dados serão salvos em um arquivo CSV chamado `CryptoCoins.csv`.
 
 ## Contribuição
 
